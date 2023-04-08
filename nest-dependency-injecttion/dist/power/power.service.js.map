@@ -1,0 +1,1 @@
+{"version":3,"file":"power.service.js","sourceRoot":"","sources":["../../src/power/power.service.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAA4C;AAGrC,IAAM,YAAY,GAAlB,MAAM,YAAY;IACvB,WAAW,CAAC,KAAa;QACvB,OAAO,CAAC,GAAG,CAAC,mBAAmB,KAAK,QAAQ,CAAC,CAAC;QAC9C,OAAO,gBAAgB,CAAC;IAC1B,CAAC;CACF,CAAA;AALY,YAAY;IADxB,IAAA,mBAAU,GAAE;GACA,YAAY,CAKxB;AALY,oCAAY"}
